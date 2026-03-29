@@ -1,8 +1,6 @@
 "use client";
 
 import React from "react";
-
-import { useTranslations } from "next-intl";
 import { useIsMobile } from "@/hooks/use-is-mobile";
 
 import { LogoImage, LogoText } from "@/components/logo";
@@ -10,8 +8,6 @@ import { LogoImage, LogoText } from "@/components/logo";
 export function Header() {
   const isMobile = useIsMobile();
   const [open, setOpen] = React.useState(false);
-
-  const t = useTranslations("layouts.home.header");
 
   const scrollUp = () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
