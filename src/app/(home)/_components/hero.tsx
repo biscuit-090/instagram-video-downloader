@@ -26,14 +26,6 @@ export function Hero() {
             </p>
           </div>
           <InstagramForm className="max-w-xl" />
-          <div className="mt-8">
-            <a href={homeLinks.howItWorks}>
-              <div className="text-muted-foreground mb-2 hover:underline">
-                {t("learnMore")}
-              </div>
-              <ArrowDown className="mx-auto h-6 w-6 animate-bounce text-teal-500" />
-            </a>
-          </div>
         </div>
       </div>
     </section>

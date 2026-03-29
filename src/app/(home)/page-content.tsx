@@ -9,18 +9,6 @@ export default function HomePage() {
     <div>
       {/* Hero Section */}
       <Hero />
-
-      {/* Features Section */}
-      <Features />
-
-      {/* How It Works Section */}
-      <HowItWorks />
-
-      {/* Testimonials Section */}
-      <Testimonials />
-
-      {/* FAQ Section */}
-      <FrequentlyAsked />
     </div>
   );
 }

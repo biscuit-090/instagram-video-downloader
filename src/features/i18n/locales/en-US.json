@@ -21,7 +21,7 @@
         "success": "Video download is starting...",
         "error": "Something went wrong, please try again."
       },
-      "hint": "Works with Instagram posts and reels",
+      "hint": "Works with posts and reels",
       "submit": "Download"
     }
   },
@@ -49,10 +49,10 @@
   "pages": {
     "home": {
       "title": "Gram Grabberz",
-      "description": "Fast, free, and no login required. Just paste the URL and download.",
+      "description": "Just paste the URL and download.",
       "hero": {
         "title": "Download Instagram Videos in Seconds",
-        "description": "Fast, free, and no login required. Just paste the URL and download.",
+        "description": "Just paste the URL and download.",
         "form": {
           "placeholder": "Paste Instagram video URL here...",
           "button": "Download"

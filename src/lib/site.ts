@@ -1,14 +1,14 @@
 import { Metadata } from "next";
 
 export const siteConfig = {
-  name: "GramGrabberz",
+  name: "biscuit's reels downloader",
   domain: "gram-grabberz.vercel.com",
-  shortName: "GramGrabberz",
+  shortName: "biscuit's reels downloader",
   creator: "riad-azz",
   description:
-    "Fast, free, and no login required. Just paste the URL and download.",
+    "Just paste the URL and download.",
   ogDescription:
-    "Fast, free, and no login required. Just paste the URL and download.",
+    "Just paste the URL and download.",
   url: "https://gram-grabberz.vercel.com",
 };
 
