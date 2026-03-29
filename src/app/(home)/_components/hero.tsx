@@ -2,9 +2,7 @@ import React from "react";
 
 import { useTranslations } from "next-intl";
 
-import { ArrowDown } from "lucide-react";
-
-import { homeLinks, homeSections } from "@/lib/constants";
+import { homeSections } from "@/lib/constants";
 import { InstagramForm } from "@/components/instagram-form";
 
 export function Hero() {

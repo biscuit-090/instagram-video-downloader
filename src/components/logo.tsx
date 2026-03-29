@@ -19,7 +19,7 @@ export function LogoText({ className, ...props }: React.ComponentProps<"div">) {
       )}
       {...props}
     >
-      biscuit's reels downloader
+      biscuit&apos;s reels downloader
     </div>
   );
 }

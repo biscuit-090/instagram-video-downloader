@@ -5,22 +5,7 @@ import React from "react";
 import { useTranslations } from "next-intl";
 import { useIsMobile } from "@/hooks/use-is-mobile";
 
-import {
-  Sheet,
-  SheetContent,
-  SheetHeader,
-  SheetTitle,
-  SheetTrigger,
-} from "@/components/ui/sheet";
-
-import { Button } from "@/components/ui/button";
 import { LogoImage, LogoText } from "@/components/logo";
-import { LocaleDropdown } from "@/features/i18n/locale-dropdown";
-import { ThemeToggleButton } from "@/features/theme/theme-toggle-button";
-
-import { Menu } from "lucide-react";
-
-import { homeLinks } from "@/lib/constants";
 
 export function Header() {
   const isMobile = useIsMobile();
