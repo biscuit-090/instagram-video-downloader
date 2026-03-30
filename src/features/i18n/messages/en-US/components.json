@@ -20,7 +20,7 @@
       "success": "Video download is starting...",
       "error": "Something went wrong, please try again."
     },
-    "hint": "Works with posts and reels",
+    "hint": "Works with public posts and reels",
     "submit": "Download"
   }
 }
