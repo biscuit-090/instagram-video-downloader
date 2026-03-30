@@ -21,7 +21,7 @@
         "success": "Video download is starting...",
         "error": "Something went wrong, please try again."
       },
-      "hint": "Works with public posts and reels",
+      "hint": "works with *public* posts and reels",
       "submit": "Download"
     }
   },
@@ -48,7 +48,7 @@
   },
   "pages": {
     "home": {
-      "title": "Gram Grabberz",
+      "title": "Biscuit's Reels Downloader",
       "description": "Just paste the URL and download.",
       "hero": {
         "title": "",

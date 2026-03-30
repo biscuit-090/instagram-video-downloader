@@ -282,7 +282,7 @@ export function InstagramForm(props: { className?: string }) {
           </Button>
         </form>
       </Form>
-      <p className="text-muted-foreground text-center text-xs">{t("hint")}</p>
+      <p className="text-muted-foreground text-center text-sm mt-5" style={{color: "grey"}}>{t("hint")}</p>
     </div>
   );
 }

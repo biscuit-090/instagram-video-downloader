@@ -1,5 +1,5 @@
 {
-  "name": "Gram Grabberz",
+  "name": "Biscuit's Reels Downloader",
   "short_name": "biscuit's reels downloader",
   "description": "Just paste the URL and download.",
   "start_url": "/",
@@ -27,6 +27,6 @@
   "author": "riad-azz",
   "copyright": "© 2025 riad-azz. All rights reserved.",
   "rating": "General",
-  "apple-mobile-web-app-title": "Gram Grabberz",
+  "apple-mobile-web-app-title": "Biscuit's Reels Downloader",
   "apple-mobile-web-app-status-bar-style": "black-translucent"
 }
